@@ -1,7 +1,7 @@
 # TensorFlow 2.0 Tutorials 
 Our repo. is the **Winner** of [⚡#PoweredByTF 2.0 Challenge!](https://devpost.com/software/tensorflow-2-0-tutorials).
 
-
+Detailed Tensorflow2 Object Detection Tutorial Step by Step Explained
 <p align="center">
   <img src="res/tensorflow-2.0.gif" width="250" align="middle">
 </p>
